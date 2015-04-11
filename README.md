@@ -13,7 +13,7 @@ dependencies {
 }
 ```
 
-## 06 - Vamos codar 
+## 02 - Vamos codar 
 Criando a interface para que possamos receber o retorno do clique do usuário em um item da lista, observe como foi tratado de forma genérica o retorno da interação do usuário com um item da lista.
 
 ```java
